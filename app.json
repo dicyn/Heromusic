@@ -1,9 +1,9 @@
 {
-    "name": "Hero",
-    "logo": "https://telegra.ph/file/0f6f8a8a5ad69fe5ecf3d.png",
+    "name": "Candy Player",
+    "logo": "https://telegra.ph/file/bf0881bcaeff4236a7257.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["musicbot", "telegram"],
-    "repository": "https://github.com/Shailendra34/Hero",
+    "repository": "https://github.com/AbhumanyuXMusic/Heromusic",
     "stack": "container",
     "env": {
         "API_ID": {
