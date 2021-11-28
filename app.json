@@ -26,7 +26,7 @@
         "BG_IMAGE": {
             "description": "Custom Thumbnail (Leave it if You Don't Want)",
             "required": false,
-            "value": "https://telegra.ph/file/0f6f8a8a5ad69fe5ecf3d.png"
+            "value": "https://telegra.ph/file/d5e8dbeb5654c8ed71e23.png"
        },
         "DURATION_LIMIT": {
             "description": "Maximum Duration For Song",
